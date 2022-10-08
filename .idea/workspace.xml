@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e79c899c-e04a-4713-99c4-60339ca25d41" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -9,6 +26,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2FqPncFg0chpCFw8ZgUsMWL2rjW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -41,26 +64,87 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e79c899c-e04a-4713-99c4-60339ca25d41" name="Default Changelist" comment="" />
+      <created>1665216808105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665216808105</updated>
+    </task>
+    <task id="LOCAL-00001" summary="create new file - main.py">
+      <created>1665216853200</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665216853200</updated>
+    </task>
+    <task id="LOCAL-00002" summary="create hm_ex_1">
+      <created>1665216881463</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665216881463</updated>
+    </task>
+    <task id="LOCAL-00003" summary="done hm_ex_2">
+      <created>1665216943256</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665216943256</updated>
+    </task>
+    <task id="LOCAL-00004" summary="create hm_ex_3">
+      <created>1665216994899</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665216994899</updated>
+    </task>
+    <task id="LOCAL-00005" summary="done hm_ex_2">
+      <created>1665217015517</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665217015517</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create new file - main.py" />
+    <MESSAGE value="create hm_ex_1" />
+    <MESSAGE value="create hm_ex_2" />
+    <MESSAGE value="create hm_ex_3" />
+    <MESSAGE value="done hm_ex_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="done hm_ex_2" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="494" y="105" key="CommitChangelistDialog2" timestamp="1665216942585">
+    <state x="494" y="105" key="CommitChangelistDialog2" timestamp="1665217973294">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="494" y="105" key="CommitChangelistDialog2/0.0.1680.1020@0.0.1680.1020" timestamp="1665216942585" />
-    <state width="1636" height="275" key="GridCell.Tab.0.bottom" timestamp="1665216959322">
+    <state x="494" y="105" key="CommitChangelistDialog2/0.0.1680.1020@0.0.1680.1020" timestamp="1665217973294" />
+    <state width="1636" height="275" key="GridCell.Tab.0.bottom" timestamp="1665217876646">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1636" height="275" key="GridCell.Tab.0.bottom/0.0.1680.1020@0.0.1680.1020" timestamp="1665216959322" />
-    <state width="1636" height="275" key="GridCell.Tab.0.center" timestamp="1665216959322">
+    <state width="1636" height="275" key="GridCell.Tab.0.bottom/0.0.1680.1020@0.0.1680.1020" timestamp="1665217876646" />
+    <state width="1636" height="275" key="GridCell.Tab.0.center" timestamp="1665217876646">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1636" height="275" key="GridCell.Tab.0.center/0.0.1680.1020@0.0.1680.1020" timestamp="1665216959322" />
-    <state width="1636" height="275" key="GridCell.Tab.0.left" timestamp="1665216959322">
+    <state width="1636" height="275" key="GridCell.Tab.0.center/0.0.1680.1020@0.0.1680.1020" timestamp="1665217876646" />
+    <state width="1636" height="275" key="GridCell.Tab.0.left" timestamp="1665217876646">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1636" height="275" key="GridCell.Tab.0.left/0.0.1680.1020@0.0.1680.1020" timestamp="1665216959322" />
-    <state width="1636" height="275" key="GridCell.Tab.0.right" timestamp="1665216959322">
+    <state width="1636" height="275" key="GridCell.Tab.0.left/0.0.1680.1020@0.0.1680.1020" timestamp="1665217876646" />
+    <state width="1636" height="275" key="GridCell.Tab.0.right" timestamp="1665217876646">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1636" height="275" key="GridCell.Tab.0.right/0.0.1680.1020@0.0.1680.1020" timestamp="1665216959322" />
+    <state width="1636" height="275" key="GridCell.Tab.0.right/0.0.1680.1020@0.0.1680.1020" timestamp="1665217876646" />
+    <state x="503" y="220" width="672" height="678" key="search.everywhere.popup" timestamp="1665217173282">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="503" y="220" width="672" height="678" key="search.everywhere.popup/0.0.1680.1020@0.0.1680.1020" timestamp="1665217173282" />
   </component>
 </project>

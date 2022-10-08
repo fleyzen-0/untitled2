@@ -1,9 +1,15 @@
 try:
-    line = int(input("Введіть довжину лінії: "))
-    simvol = input("Введіть символ для заповнення: ")
-    for item in range(0, line):
-        print(simvol)
-
+    while True:
+        line = int(input("Введіть числа: "))
+        if line > 0:
+            print("Number is positive")
+        if line < 0:
+            print("Number is negative")
+        if line == 0:
+            print("Number is equal to zero")
+        if line == 7:
+            print("Good bye!")
+            break
 
 
 except Exception as ex:
