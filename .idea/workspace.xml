@@ -3,7 +3,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feuture/hm_ex_1" />
+        <entry key="$PROJECT_DIR$" value="feuture/hm_ex_2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -13,10 +13,54 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="494" y="105" key="CommitChangelistDialog2" timestamp="1665216901743">
+    <state x="494" y="105" key="CommitChangelistDialog2" timestamp="1665216942585">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="494" y="105" key="CommitChangelistDialog2/0.0.1680.1020@0.0.1680.1020" timestamp="1665216901743" />
+    <state x="494" y="105" key="CommitChangelistDialog2/0.0.1680.1020@0.0.1680.1020" timestamp="1665216942585" />
+    <state width="1636" height="275" key="GridCell.Tab.0.bottom" timestamp="1665216959322">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="1636" height="275" key="GridCell.Tab.0.bottom/0.0.1680.1020@0.0.1680.1020" timestamp="1665216959322" />
+    <state width="1636" height="275" key="GridCell.Tab.0.center" timestamp="1665216959322">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="1636" height="275" key="GridCell.Tab.0.center/0.0.1680.1020@0.0.1680.1020" timestamp="1665216959322" />
+    <state width="1636" height="275" key="GridCell.Tab.0.left" timestamp="1665216959322">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="1636" height="275" key="GridCell.Tab.0.left/0.0.1680.1020@0.0.1680.1020" timestamp="1665216959322" />
+    <state width="1636" height="275" key="GridCell.Tab.0.right" timestamp="1665216959322">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="1636" height="275" key="GridCell.Tab.0.right/0.0.1680.1020@0.0.1680.1020" timestamp="1665216959322" />
   </component>
 </project>
