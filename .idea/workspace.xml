@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feuture/hm_ex_1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2FqPncFg0chpCFw8ZgUsMWL2rjW" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="494" y="105" key="CommitChangelistDialog2" timestamp="1665216901743">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="494" y="105" key="CommitChangelistDialog2/0.0.1680.1020@0.0.1680.1020" timestamp="1665216901743" />
   </component>
 </project>
