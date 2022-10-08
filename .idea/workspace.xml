@@ -110,7 +110,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665217015517</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="done hm_ex_3">
+      <created>1665217983196</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665217983196</updated>
+    </task>
+    <task id="LOCAL-00007" summary="create hm_ex_4">
+      <created>1665218026572</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665218026572</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -119,29 +133,39 @@
     <MESSAGE value="create hm_ex_2" />
     <MESSAGE value="create hm_ex_3" />
     <MESSAGE value="done hm_ex_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="done hm_ex_2" />
+    <MESSAGE value="done hm_ex_3" />
+    <MESSAGE value="create hm_ex_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="create hm_ex_4" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="494" y="105" key="CommitChangelistDialog2" timestamp="1665217982496">
+    <state x="494" y="105" key="CommitChangelistDialog2" timestamp="1665218025795">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="494" y="105" key="CommitChangelistDialog2/0.0.1680.1020@0.0.1680.1020" timestamp="1665217982496" />
-    <state width="1636" height="275" key="GridCell.Tab.0.bottom" timestamp="1665217876646">
+    <state x="494" y="105" key="CommitChangelistDialog2/0.0.1680.1020@0.0.1680.1020" timestamp="1665218025795" />
+    <state width="1636" height="275" key="GridCell.Tab.0.bottom" timestamp="1665218127551">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1636" height="275" key="GridCell.Tab.0.bottom/0.0.1680.1020@0.0.1680.1020" timestamp="1665217876646" />
-    <state width="1636" height="275" key="GridCell.Tab.0.center" timestamp="1665217876646">
+    <state width="1636" height="275" key="GridCell.Tab.0.bottom/0.0.1680.1020@0.0.1680.1020" timestamp="1665218127551" />
+    <state width="1636" height="275" key="GridCell.Tab.0.center" timestamp="1665218127551">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1636" height="275" key="GridCell.Tab.0.center/0.0.1680.1020@0.0.1680.1020" timestamp="1665217876646" />
-    <state width="1636" height="275" key="GridCell.Tab.0.left" timestamp="1665217876646">
+    <state width="1636" height="275" key="GridCell.Tab.0.center/0.0.1680.1020@0.0.1680.1020" timestamp="1665218127551" />
+    <state width="1636" height="275" key="GridCell.Tab.0.left" timestamp="1665218127551">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1636" height="275" key="GridCell.Tab.0.left/0.0.1680.1020@0.0.1680.1020" timestamp="1665217876646" />
-    <state width="1636" height="275" key="GridCell.Tab.0.right" timestamp="1665217876646">
+    <state width="1636" height="275" key="GridCell.Tab.0.left/0.0.1680.1020@0.0.1680.1020" timestamp="1665218127551" />
+    <state width="1636" height="275" key="GridCell.Tab.0.right" timestamp="1665218127551">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1636" height="275" key="GridCell.Tab.0.right/0.0.1680.1020@0.0.1680.1020" timestamp="1665217876646" />
+    <state width="1636" height="275" key="GridCell.Tab.0.right/0.0.1680.1020@0.0.1680.1020" timestamp="1665218127551" />
+    <state x="432" y="243" key="Vcs.Push.Dialog.v2" timestamp="1665218575620">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="432" y="243" key="Vcs.Push.Dialog.v2/0.0.1680.1020@0.0.1680.1020" timestamp="1665218575620" />
+    <state x="621" y="223" key="git4idea.branch.GitSmartOperationDialog" timestamp="1665218580433">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="621" y="223" key="git4idea.branch.GitSmartOperationDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1665218580433" />
     <state x="503" y="220" width="672" height="678" key="search.everywhere.popup" timestamp="1665217173282">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
